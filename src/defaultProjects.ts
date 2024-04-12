@@ -12,6 +12,7 @@ export interface Project {
 
 export const projects: Project[] = [
   { name: "Cohesion", links: [] },
+  { name: "Convection", links: [] },
   { name: "Diffusion", links: [] },
   { name: "Eigen", links: [] },
   {
